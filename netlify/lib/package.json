@@ -1,0 +1,1 @@
+{  "name": "fizzlesfoods-website",  "version": "1.0.0",  "private": true,  "type": "module",  "description": "FIZZLESFOODS and FIZZLESFOODS EVENTS website with shared owner dashboard and bookings",  "engines": { "node": ">=18" },  "dependencies": {    "@netlify/blobs": "^8.1.0"  }}
